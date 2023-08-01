@@ -1,1 +1,1 @@
-Hello, another useless git file!
+Hello, Hexlet! How are you?
